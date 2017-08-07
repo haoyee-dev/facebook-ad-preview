@@ -1,0 +1,88 @@
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
+.fb_container {
+    background-color: white;
+}
+
+.error, .error:hover, .error:focus {
+	    border: 1px solid red;
+}
+
+#img_wrap {
+    -webkit-box-shadow: 0 0 0 1.5px rgba(0, 0, 0, 0.1) inset, 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+#fb_img_pic{
+    width: 100%;
+    border: 0;
+}
+
+#fb_msg_txt {
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.38;
+    color: #141823;
+    font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    margin-bottom: 5px;
+    display: block;
+    max-width: 470px;
+    word-wrap: break-word;
+}
+
+#fb_desc_box {
+    display: block;
+    padding: 10px 12px;
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 1.28;
+
+}
+
+#fb_header_txt {
+    font-family: Georgia, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 22px;
+    color: #141823;
+    margin-bottom: 5px;
+    font-weight: 500;
+    display: block;
+    word-wrap: break-word;
+}
+
+#fb_desc_txt {
+    font-family: Georgia, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 16px;
+    color: #141823;
+    display: block;
+    word-wrap: break-word;
+}
+#fb_link {
+    margin-top: 9px;
+}
+#fb_link_txt{
+    font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 11px;
+    text-transform: uppercase;
+    color: #adb2bb;
+
+}
